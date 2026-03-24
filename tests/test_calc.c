@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "calc.h"
+#include <calc.h>
 
 static int total_tests = 0;
 static int passed_tests = 0;
