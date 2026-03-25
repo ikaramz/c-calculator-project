@@ -1,4 +1,6 @@
 # C Calculator Project
+# 작성자 : ikaramz
+# 날  짜 : 2026년 3월 25일
 
 GitHub Actions, GHCR(GitHub Container Registry), Windows self-hosted runner, Docker Compose를 이용하여 **C 언어 계산기 프로젝트의 CI/CD 자동화**를 구현한 실습 프로젝트입니다.
 
